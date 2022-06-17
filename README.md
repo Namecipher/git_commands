@@ -32,4 +32,17 @@ git add *
 
 git add .
 
+git status
+
+git diff
+
+git commit -m "message"
+
+git push origin branch_name
+
+git pull origin branch_name
+
+git fetch -all
+
+
 
