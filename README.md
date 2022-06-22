@@ -42,7 +42,15 @@ git push origin branch_name
 
 git pull origin branch_name
 
-git fetch -all
+git fetch --all
+
+git merge branch_name 
+
+git config --list -
+
+git config --global user.email "youremail"
+
+git remote -v -
 
 
 
