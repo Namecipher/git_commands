@@ -56,7 +56,7 @@ git config --list - It shows the list of all git configuration properties throug
 
 git config --global user.email "youremail" It is used to configure the user's email id with the remote repository.
 
-git remote -v - 
+git remote -v - It gives the url of the remote repo with which the local repo is connected.
 
 git log - list of all commit id in full format
 
