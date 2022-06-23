@@ -19,7 +19,13 @@ Version control, also known as source control, is the practice of tracking and m
 
 7) What is commit in Git?
   A commit in git is a process to keep track of our progress and changes as we work.Each commit is considered as a change point or save point. It is a point in the project you can go back to if you find a bug, or want to make a change.
-
+ 
+8) What is a merge conflict ?
+   It is an event where a conflict occurs due to the same lines of code being modified by two different people and Git is unable to automatically resolve the            differences in code between two commits.
+10) How to resolve the conflict ? 
+    A conflict can be resolved by communication between the parties that have modified the code where conflict has occured and decide which line of code is correct and     update the changes accordingly.
+12) What is the diff between git fetch and git pull ?
+    
 
 
 Basic Git Commands
